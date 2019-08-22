@@ -15,24 +15,28 @@ After NEST+m acceptted our proposal, we did another measurement to see if the ex
 <br><br>
 
 ## Initial Site-Visit
-### Criteria
+Upon our first visit, we took Rverberation Time(RT)__ measurement to see what we are facing for this auditorium.
 *__Reverberation Time__*
 <br>
-Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space. 
-<br><br>
-Upon our first visit, we took RT measurement using interrupted method, by excitingh the room with enough sound energy and measure the decay time. The foloowing plot shows our measured RT of the auditorium
+*** Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space. 
+<br><
+We used interrupted method, which means we excited the room with enough sound energy and measure the time for the sound to decay. The foloowing plot shows our measured RT of the auditorium
+
+
 <img src="pic/RT_mea.png?raw=true"/>
 <br>
 It is clear that the RT is too __high__ for an auditorium.
 
 ## Recommandation and Prediction
 We aim to find a low-cost solution to bring down the RT of the auditorium, so we proposed acoustic panels for the school.
-We use Sabine's formula to caculate what would the expected RT be with acoustic panel. 
+We use Sabine's formula to caculate what would the expected RT be with acoustic paneland how many panels we need. 
 <img src="pic/RT_both.png?raw=true"/>
 <img src="pic/compare.png?raw=true"/>
 <br> <br>
-The school eventualy selected our proposal of using 12 4'\*8' Knauf panel convering 384 ft^2 with only about $4000 on cost 
+
+The school accepted our proposal of using 12 4'\*8' Knauf panel convering 384 ft^2 with only about $4000 on cost 
 <img src="pic/proposal.jpg?raw=true"/>
+
 
 ## Second Site-Visit
 ### Measurement Matlab Code
