@@ -17,20 +17,26 @@ After NEST+m acceptted our proposal, we did another measurement to see if the ex
 ## Initial Site-Visit
 ### Criteria
 Reverberation Time
-Image here 
+<img src="pic/RT_mea.png?raw=true"/>
 <br>
 ### Recommandation and Prediction
-Image here 
+<img src="pic/RT_bith.png?raw=true"/>
+<img src="pic/compare.png?raw=true"/>
+<img src="pic/proposal.png?raw=true"/>
+
 
 ## Second Site-Visit
 ### Measurement Matlab Code
+<img src="pic/measure.jpg?raw=true"/>
 
-## Modeling and Simulation
 -[Matlab Code](https://github.com/raymondminglee/Acoustic-Consulting)
 
+## Modeling and Simulation
 ### Sketch Up Model
+<img src="pic/sketchup.png?raw=true"/>
 
 ### CATT Acoustic simulation result
+<img src="pic/catt.png?raw=true"/>
 
 
 
