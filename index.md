@@ -3,7 +3,6 @@
 
 # NEST+m Auditorium Consulting
 
----
 
 ## Introdution
 NEST+m is a local k-12 public school located in the lower east side of Manhattan, New York. They approch to us, the Cooper Union Acouistic and Vibration Laboratory for help
@@ -18,7 +17,7 @@ After NEST+m acceptted our proposal, we did another measurement to see if the ex
 Upon our first visit, we took __Rverberation Time(RT)__ measurement to see what we are facing for this auditorium.
 <br><br>
 *__Reverberation Time__*
-  Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space. 
+     Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space. 
 <br><br>
 We used interrupted method, which means we excited the room with enough sound energy and measure the time for the sound to decay. The foloowing plot shows our measured RT of the auditorium
 
