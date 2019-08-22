@@ -18,8 +18,8 @@ After NEST+m acceptted our proposal, we did another measurement to see if the ex
 Upon our first visit, we took Rverberation Time(RT)__ measurement to see what we are facing for this auditorium.
 *__Reverberation Time__*
 <br>
-*** Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space. 
-<br><
+  Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space. 
+<br>
 We used interrupted method, which means we excited the room with enough sound energy and measure the time for the sound to decay. The foloowing plot shows our measured RT of the auditorium
 
 
