@@ -20,7 +20,7 @@ Reverberation Time
 <img src="pic/RT_mea.png?raw=true"/>
 <br>
 ### Recommandation and Prediction
-<img src="pic/RT_bith.png?raw=true"/>
+<img src="pic/RT_both.png?raw=true"/>
 <img src="pic/compare.png?raw=true"/>
 <img src="pic/proposal.png?raw=true"/>
 
