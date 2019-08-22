@@ -32,7 +32,7 @@ We use Sabine's formula to caculate what would the expected RT be with acoustic 
 <img src="pic/compare.png?raw=true"/>
 <br> <br>
 The school eventualy selected our proposal of using 12 4'\*8' Knauf panel convering 384 ft^2 with only about $4000 on cost 
-<img src="pic/proposal.png?raw=true"/>
+<img src="pic/proposal.jpg?raw=true"/>
 
 ## Second Site-Visit
 ### Measurement Matlab Code
