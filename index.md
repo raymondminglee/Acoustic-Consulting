@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/raymondminglee/Acoustic-Consulting/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# NEST+m Auditorium Consulting
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Introdution
+This project seeks a low-cost solution for reducing the reverberation time while also engaging the
+schools’ students in a creative and interactive project. The NEST+m students can learn about the basic
+knowledge of auditorium acoustics, and engage in a hands-on, creative project by decorating their
+auditorium with the proposed acoustic panels. The panels can be detachable and removed when more
+reverberation is desired, for example, during concerts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Acoustics
+-[HRTF Personalization using ML](https://raymondminglee.github.io/Acoustic/)
+<br>
+-[NEST+m Acoustic Consulting](https://raymondminglee.github.io/Acoustic/)
+<br>
+-[Field Microphone](https://raymondminglee.github.io/Acoustic/)
+<br>
+-[Sound Processing Techniques](https://raymondminglee.github.io/Acoustic/)
 
-```markdown
-Syntax highlighted code block
+### Data Science and ML
+-[NYC Food Inecurity](https://raymondminglee.github.io/DataScience/)
+<br>
+-[AI Pioneer](https://raymondminglee.github.io/DataScience/)
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+### Engineering
+-[CFD/CAE](https://raymondminglee.github.io/Engineering/)
+<br>
+-[Invention Factory](https://raymondminglee.github.io/Engineering/)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Work Experiences
 
-**Bold** and _Italic_ and `Code` text
+* ### Summer Acoustic Consultant, *Lonmang Lindsey, New York*
 
-[Link](url) and ![Image](src)
-```
+<br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* ### Summer Intern, *Transcendence Captial Management, New York*
+June 2018 – Aug 2018
+  * Interned at Transcendence Capital Management, a startup capital management company focusing on cryptocurrency tradingand value investment in blockchain technologies
+  * Performed statistical analysis on top 10 cryptocurrencies using MATLAB
+  * Developed a cryptocurrency trading bot written in Python using Binance’s API to achieve automated trading with our own financial models
+<br>
+* ### Lab Technician, *The Cooper Union, New York*
+Jan 2017 – Dec 2018
+  * Supervised the usage of The Cooper Union Acoustic Lab and gave presentation and tour to visitors
+  * Managed lab equipment and provided necessary training for student in need
+<br>
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raymondminglee/Acoustic-Consulting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
+### The Coooper Union for The Advancement of Science and Art, *New York*
+* Master of Engineering, Major: Mechanical Engineering, GPA:4.00&nbsp; &nbsp; &nbsp; *Sep 2018 – May 2020*
+* Bachelor of Engineering, Major: Mechanical Engineering, GPA: 3.33&nbsp; &nbsp; *Sep 2014 – May 2018*
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Skills
+
+
