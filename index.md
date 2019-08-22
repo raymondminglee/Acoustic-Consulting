@@ -16,20 +16,22 @@ After NEST+m acceptted our proposal, we did another measurement to see if the ex
 
 ## Initial Site-Visit
 ### Criteria
-*###Reverberation Time*
-Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space. 
+*__Reverberation Time__*
 <br>
+Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space. 
+<br><br>
 Upon our first visit, we took RT measurement using interrupted method, by excitingh the room with enough sound energy and measure the decay time. The foloowing plot shows our measured RT of the auditorium
 <img src="pic/RT_mea.png?raw=true"/>
 <br>
 It is clear that the RT is too __high__ for an auditorium.
 
-### Recommandation and Prediction
+## Recommandation and Prediction
 We aim to find a low-cost solution to bring down the RT of the auditorium, so we proposed acoustic panels for the school.
 We use Sabine's formula to caculate what would the expected RT be with acoustic panel. 
 <img src="pic/RT_both.png?raw=true"/>
 <img src="pic/compare.png?raw=true"/>
 <br> <br>
+The school eventualy selected our proposal of using 12 4'\*8' Knauf panel convering 384 ft^2 with only about $4000 on cost 
 <img src="pic/proposal.png?raw=true"/>
 
 ## Second Site-Visit
