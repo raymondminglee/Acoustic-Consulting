@@ -44,7 +44,6 @@ The following plots are impulse response of the space, and energy decay curve fo
 
 ## Modeling and Simulation
 Model of the auditorium is created using SketchUp and imported into CATTAcoustic software.  
-<br><br>
 ### Sketch Up Model
 <img src="pic/sketchup.png?raw=true"/>
 
