@@ -14,14 +14,12 @@ After NEST+m acceptted our proposal, we did another measurement to see if the ex
 <br><br>
 
 ## Initial Site-Visit
-Upon our first visit, we took __Rverberation Time(RT)__ measurement to see what we are facing for this auditorium. 
-```markdown 
+Upon our first visit, we took __Rverberation Time(RT)__ measurement to see what we are facing for this auditorium.  
+
 *__Reverberation Time__*  
-Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space.
-```
+Reverberation time describes how long sound energy stays in a given space. It is often precived as echoness of the space.  
 
 We used interrupted method, which means we excited the room with enough sound energy and measure the time for the sound to decay. The foloowing plot shows our measured RT of the auditorium
-
 
 <img src="pic/RT_mea.png?raw=true"/>
 <br>
@@ -35,12 +33,18 @@ We use Sabine's formula to caculate what would the expected RT be with acoustic 
 The school accepted our proposal of using 12 4'\*8' Knauf panel convering 384 ft^2 with only about $4000 on cost 
 
 ## Second Site-Visit
-### Measurement Matlab Code
+Afer installation, we pay the auditorium a second visit and did a more rigirous measurement. We also did a thorough modeling of the auditorium acoustic simulation software CATT. The foloowing cintent detailed our measurememt, derivation, and modeling of the acoustical property of the NEST+m auditorium.  
+
+### Measurement & Matlab Code
+Our measurement aim to capture the impulse response of the auditorium. By measuring the impulse response of the space using a sine sweep, we could derived all the needed acoustical index and parameter we need using Matlab. For this project, we drived RT, Early Decay Time (EDT), and Clearity Index(C50 and C80). Matlab script used for this project is uploaded to the project repository. For all the Matlab implementation of acousstical DSP function, please go to the [Acoustical DSP in Matlab](https://github.com/raymondminglee/Acoustic-Consulting) page.  
+The following plots are impulse response of the space, and energy decay curve for deriving time decay of the sound.
 <img src="pic/matlab_plot.PNG?raw=true"/>
 
 -[Matlab Code](https://github.com/raymondminglee/Acoustic-Consulting)
 
 ## Modeling and Simulation
+Model of the auditorium is created using SketchUp and imported into CATTAcoustic software.  
+<br><br>
 ### Sketch Up Model
 <img src="pic/sketchup.png?raw=true"/>
 
@@ -51,13 +55,7 @@ The school accepted our proposal of using 12 4'\*8' Knauf panel convering 384 ft
 <img src="pic/sim_plot.PNG?raw=true"/>
 
 
-<br>
--[AI Pioneer](https://raymondminglee.github.io/DataScience/)
 
-### Engineering
--[CFD/CAE](https://raymondminglee.github.io/Engineering/)
-<br>
--[Invention Factory](https://raymondminglee.github.io/Engineering/)
 
 ---
 
