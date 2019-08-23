@@ -48,7 +48,7 @@ The school accepted our proposal of using 12 4'\*8' Knauf panel convering 384 ft
 <img src="pic/catt.png?raw=true"/>
 
 ### Comparison between Simulation and Measurement
-<img src="pic/sim_result.PNG?raw=true"/>
+<img src="pic/sim_plot.PNG?raw=true"/>
 
 
 <br>
