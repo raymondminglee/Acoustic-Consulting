@@ -56,9 +56,9 @@ Model of the auditorium is created using SketchUp and imported into CATTAcoustic
 ## Comprehensive Report and Presentation
 If you are interetsed, comprehensive report, summary of our proposal to the school and presentation slides are avalible for dowenload.  
 
--[Proposal Summary](https://github.com/raymondminglee/Acoustic-Consulting)
--[Comprehensive Report](https://github.com/raymondminglee/Acoustic-Consulting)
--[Project's Slides](https://github.com/raymondminglee/Acoustic-Consulting)
+-[Proposal Summary](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/doc/NEST%2Bm_summary.pdf)
+-[Comprehensive Report](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/doc/NEST%2Bm_Report.pdf)
+-[Project's Slides](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/doc/Presentsation.pdf)
 
 
 
