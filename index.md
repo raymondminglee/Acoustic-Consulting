@@ -12,7 +12,7 @@ schools’ students in a creative and interactive project. My teammate and I off
 After NEST+m acceptted our proposal, we did another measurement to see if the expected improvment is accomplished. 
 It is a chance for the Cooper Union Acoustic and Vibration Laboratpry to give back and engange in community outreach.
 <br><br>
----
+*** 
 ## Initial Site-Visit
 Upon our first visit, we took __Rverberation Time(RT)__ measurement to see what we are facing for this auditorium.  
 
@@ -24,14 +24,13 @@ We used interrupted method, which means we excited the room with enough sound en
 [<img src="pic/RT_mea.png?raw=true"/>](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/pic/RT_mea.png)
 <br>
 It is clear that the RT is too __high__ for an auditorium.
----
 ## Recommandation and Prediction
 We aim to find a low-cost solution to bring down the RT of the auditorium, so we proposed acoustic panels for the school.
 We use Sabine's formula to caculate what would the expected RT be with acoustic paneland how many panels we need. 
 [<img src="pic/result_1.PNG?raw=true"/>](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/pic/result_1.PNG)
 <br> <br>
 The school accepted our proposal of using 12 4'\*8' Knauf panel convering 384 ft^2 with only about $4000 on cost 
----
+***
 ## Second Site-Visit
 Afer installation, we pay the auditorium a second visit and did a more rigirous measurement. We also did a thorough modeling of the auditorium acoustic simulation software CATT. The foloowing cintent detailed our measurememt, derivation, and modeling of the acoustical property of the NEST+m auditorium.  
 
@@ -41,7 +40,7 @@ The following plots are impulse response of the space, and energy decay curve fo
 [<img src="pic/matlab_plot.PNG?raw=true"/>](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/pic/matlab_plot.PNG)
 
 -[Matlab Code](https://github.com/raymondminglee/script)
----
+***
 ## Modeling and Simulation
 Model of the auditorium is created using SketchUp and imported into CATTAcoustic software.  
 ### Sketch Up Model
@@ -52,13 +51,14 @@ Model of the auditorium is created using SketchUp and imported into CATTAcoustic
 
 ### Comparison between Simulation and Measurement
 [<img src="pic/sim_plot.PNG?raw=true"/>](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/pic/sim_plot.PNG)
----
+***
 ## Comprehensive Report and Presentation
 If you are interetsed, comprehensive report, summary of our proposal to the school and presentation slides are avalible for dowenload.  
 
 -[Proposal Summary](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/doc/NEST%2Bm_summary.pdf)
 -[Comprehensive Report](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/doc/NEST%2Bm_Report.pdf)
 -[Project's Slides](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/doc/Presentsation.pdf)
+
 
 
 
