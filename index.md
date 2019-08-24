@@ -40,7 +40,7 @@ Our measurement aim to capture the impulse response of the auditorium. By measur
 The following plots are impulse response of the space, and energy decay curve for deriving time decay of the sound.
 <img src="pic/matlab_plot.PNG?raw=true"/>
 
--[Matlab Code](https://github.com/raymondminglee/Acoustic-Consulting)
+-[Matlab Code](https://github.com/raymondminglee/script)
 
 ## Modeling and Simulation
 Model of the auditorium is created using SketchUp and imported into CATTAcoustic software.  
