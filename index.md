@@ -26,6 +26,7 @@ We used interrupted method, which means we excited the room with enough sound en
 <br>
 It is clear that the RT is too __high__ for an auditorium.
 ## Recommandation and Prediction
+---
 We aim to find a low-cost solution to bring down the RT of the auditorium, so we proposed acoustic panels for the school.
 We use Sabine's formula to caculate what would the expected RT be with acoustic paneland how many panels we need. 
 [<img src="pic/result_1.PNG?raw=true"/>](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/pic/result_1.PNG)
