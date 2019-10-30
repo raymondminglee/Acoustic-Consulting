@@ -54,7 +54,7 @@ Model of the auditorium is created using SketchUp and imported into CATTAcoustic
 ### Comparison between Simulation and Measurement
 [<img src="pic/sim_plot.PNG?raw=true"/>](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/pic/sim_plot.PNG)
 
-##Auralization
+## Auralization
 ---
 Now, since we have the actual impulse response of the room, we could do something interesting hgere, called __Auralization__. Which means, we could feed in an audio clip of a music recorded anechoiclly and get out what we would precieved as if this piece of music is being played in this auditorium.
 
