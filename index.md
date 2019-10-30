@@ -60,7 +60,7 @@ Now, since we have the actual impulse response of the room, we could do somethin
 
 Here is a recording of Beethoven's Symphony No 7 in the anechoic chamber. It should sound very __dry__ caouse there is bo reverberation associate with this recording.  
 [Original Recording](/audio/Beethoven_orig.m4a)  
-Now, lets hear how this piece would sounds like if it is being palyed at NEST+m's auditorium
+Now, lets hear how this piece would sounds like if it is being palyed at NEST+m's auditorium  
 [Aurulized audio](/audio/Beethoven_sim.m4a)  
 
 ## Comprehensive Report and Presentation
