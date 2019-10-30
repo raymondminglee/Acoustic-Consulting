@@ -54,6 +54,9 @@ Model of the auditorium is created using SketchUp and imported into CATTAcoustic
 ### Comparison between Simulation and Measurement
 [<img src="pic/sim_plot.PNG?raw=true"/>](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/pic/sim_plot.PNG)
 
+##Auralization
+![Sample audio](/Audio/glass_ping-Go445-1207030150.mp3)
+
 ## Comprehensive Report and Presentation
 ---
 If you are interetsed, comprehensive report, summary of our proposal to the school and presentation slides are avalible for dowenload.  
