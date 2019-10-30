@@ -55,7 +55,8 @@ Model of the auditorium is created using SketchUp and imported into CATTAcoustic
 [<img src="pic/sim_plot.PNG?raw=true"/>](https://github.com/raymondminglee/Acoustic-Consulting/blob/master/pic/sim_plot.PNG)
 
 ##Auralization
-![Sample audio](/audio/Beethoven_sim.m4a)
+---
+[Sample audio](/audio/Beethoven_sim.m4a)
 
 ## Comprehensive Report and Presentation
 ---
